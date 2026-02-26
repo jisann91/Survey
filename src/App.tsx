@@ -213,7 +213,7 @@ export default function App() {
                     href={SURVEY_LINK}
                     className="inline-flex items-center gap-2 px-8 py-4 bg-primary text-bg font-bold text-lg rounded-xl hover:scale-105 transition-transform animate-pulse-glow"
                   >
-                    💰 Claim Your Free Account <ArrowRight size={20} />
+                     Continue to Available Surveys <ArrowRight size={20} />
                   </a>
                 </FadeIn>
 
@@ -350,7 +350,7 @@ export default function App() {
                     {/* Decorative glow */}
                     <div className="absolute top-0 left-0 w-full h-full bg-primary/5 blur-3xl -z-10" />
                     
-                    <h2 className="text-4xl md:text-6xl font-display font-extrabold mb-6">Start Earning Real Cash Today</h2>
+                    <h2 className="text-4xl md:text-6xl font-display font-extrabold mb-6">Limited spots available today join now</h2>
                     <p className="text-xl text-white/70 mb-10 max-w-xl mx-auto">
                       Join 2.4 million members. 100% free, takes 2 minutes. No hidden fees or subscriptions.
                     </p>
@@ -359,7 +359,7 @@ export default function App() {
                       href={SURVEY_LINK}
                       className="inline-flex items-center gap-3 px-10 py-5 bg-primary text-bg font-black text-xl rounded-2xl hover:scale-105 transition-transform animate-pulse-glow mb-6"
                     >
-                      💰 Claim Your Free Account <ArrowRight size={24} />
+                       Continue to Available Surveys <ArrowRight size={24} />
                     </a>
                     
                     <div className="flex flex-col sm:flex-row items-center justify-center gap-4 text-sm font-medium text-white/40">
